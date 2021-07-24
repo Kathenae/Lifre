@@ -1,7 +1,7 @@
-#Lifre
+# Lifre
 Game of Life implemented on the godot engine.
 
-##Features
+## Features
 - [x] Manually steping into previous or next generation
 - [x] Save/Load current generation
 - [x] Simulation Speed Controls
@@ -10,7 +10,7 @@ Game of Life implemented on the godot engine.
 - [x] Zoom in/out (Q or E or Scroll)
 - [x] Simulation Sfx
 
-##Planned Features
+## Planned Features
 - [ ] Built-in LifeGenerations (so users have cool stuff to check out)
 - [ ] Timeline for easily browsing through generations
 - [ ] Brushes for placing presets like gliders
