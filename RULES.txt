@@ -1,0 +1,6 @@
+
+1 - A cell lives if it has two or three live neighbours
+2 - A dead cell with three live neighbours is re-born
+3 - all other cells die or remain dead
+
+TODO: Figure out a set of rules that would allow us to evolve "backwards"
